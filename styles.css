@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse: collapse;
+    border: 1px solid #808080;
+}
+td{
+	width:100px;
+	border:2px solid black;
+}
+.data_row{
+	text-align:right;
+}
